@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**g-alopes/g-alopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Gustavo de Almeida Lopes!
 
-Here are some ideas to get you started:
+I've been working as a Fullstack Web Developer since 2015, autonomous, when I completed the Computer Technician course with an emphasis on programming, at UTRAMIG - Belo Horizonte/MG, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer I use HTML, CSS, JS, Java, C#, SQL, Git technologies.
+
+:books Currently studying Systems Analysis and Development with conclusion scheduled for 06/2024 at Unisinos.
+
+:outbox_tray I am open to job opportunities. Feel free to connect and send a message.
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/g-alopes)](https://github.com/g-alopes)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-de-almeida-lopes-349b6b131/)](https://www.linkedin.com/in/gustavo-de-almeida-lopes-349b6b131/)
+
+- Thanks for visiting.
