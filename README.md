@@ -48,6 +48,6 @@ Kanban;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/g-alopes)](https://github.com/g-alopes)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-de-almeida-lopes-349b6b131/)](https://www.linkedin.com/in/gustavo-de-almeida-lopes-349b6b131/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-de-almeida-lopes-349b6b131/)](https://www.linkedin.com/in/gustavo-lopes-software-developer/)
 
 - Thanks for visiting.
