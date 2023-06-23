@@ -2,7 +2,7 @@
 
 ## I'm Gustavo de Almeida Lopes!
 
-I've been working as a Full Stack .NET Developer since 2017.
+I've been working as a Full Stack .NET Developer since 2015.
 
 :computer: I have experience in:
 
@@ -25,6 +25,7 @@ MySQL;
 HTML;
 CSS;
 JavaScript;
+Jquery;
 
 SCRUM;
 Kanban;
